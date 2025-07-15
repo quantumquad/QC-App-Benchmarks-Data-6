@@ -1,0 +1,410 @@
+{
+  "Benchmark Results - Phase Estimation - Qiskit": {
+    "backend_id": "ibm_sherbrooke-250628-mcm",
+    "circuit_metrics": null,
+    "end_time": 0,
+    "group_metrics": {
+      "avg_create_times": [
+        0.007,
+        0.008,
+        0.012,
+        0.017,
+        0.03,
+        0.031
+      ],
+      "avg_depths": [
+        16.0,
+        24.0,
+        33.0,
+        43.0,
+        54.0,
+        66.0
+      ],
+      "avg_elapsed_times": [
+        15.664,
+        19.361,
+        24.631,
+        27.413,
+        28.639,
+        32.432
+      ],
+      "avg_exec_creating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_times": [
+        3.401,
+        3.281,
+        3.347,
+        2.95,
+        2.998,
+        5.778
+      ],
+      "avg_exec_validating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_fidelities": [
+        0.772,
+        0.059,
+        0.007,
+        0.006,
+        0.004,
+        0.003
+      ],
+      "avg_hf_fidelities": [
+        0.829,
+        0.164,
+        0.055,
+        0.021,
+        0.016,
+        0.01
+      ],
+      "avg_tr_depths": [
+        18.0,
+        27.0,
+        35.0,
+        46.0,
+        58.0,
+        71.0
+      ],
+      "avg_tr_n2qs": [
+        2.333,
+        4.333,
+        5.667,
+        7.667,
+        9.667,
+        11.667
+      ],
+      "avg_tr_xis": [
+        0.121,
+        0.146,
+        0.139,
+        0.143,
+        0.144,
+        0.142
+      ],
+      "avg_xis": [
+        0.25,
+        0.24,
+        0.229,
+        0.217,
+        0.207,
+        0.197
+      ],
+      "groups": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "job_ids": [
+        [
+          "d1g8292576rs73co8330",
+          "d1g829dqbivc73ect8m0",
+          "d1g829lqbivc73ect8n0"
+        ],
+        [
+          "d1g829qq8ogc73etqom0",
+          "d1g829tqbivc73ect8ng",
+          "d1g82aiq8ogc73etqong"
+        ],
+        [
+          "d1g82atqbivc73ect8og",
+          "d1g82b2576rs73co8360",
+          "d1g82begljis73cnpk90"
+        ],
+        [
+          "d1g82blqbivc73ect8q0",
+          "d1g82ci576rs73co837g",
+          "d1g82daq8ogc73etqoqg"
+        ],
+        [
+          "d1g82dmgljis73cnpkc0",
+          "d1g82eegljis73cnpkdg",
+          "d1g82emgljis73cnpke0"
+        ],
+        [
+          "d1g82g2576rs73co83bg",
+          "d1g82gtqbivc73ect8v0",
+          "d1g82hi576rs73co83d0"
+        ]
+      ],
+      "std_create_times": [
+        0.002,
+        0.0,
+        0.001,
+        0.002,
+        0.002,
+        0.005
+      ],
+      "std_elapsed_times": [
+        0.359,
+        0.86,
+        0.707,
+        0.382,
+        0.399,
+        0.172
+      ],
+      "std_exec_times": [
+        0.714,
+        0.661,
+        0.147,
+        0.559,
+        0.098,
+        0.58
+      ],
+      "std_fidelities": [
+        0.01,
+        0.044,
+        0.006,
+        0.005,
+        0.002,
+        0.002
+      ],
+      "std_hf_fidelities": [
+        0.008,
+        0.045,
+        0.011,
+        0.011,
+        0.004,
+        0.003
+      ]
+    },
+    "start_time": 0
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_sherbrooke-250628-mcm",
+    "circuit_metrics": null,
+    "end_time": 0,
+    "group_metrics": {
+      "avg_create_times": [
+        0.001,
+        0.001,
+        0.004,
+        0.003,
+        0.004,
+        0.003,
+        0.003
+      ],
+      "avg_depths": [
+        8.0,
+        12.0,
+        17.0,
+        23.0,
+        30.0,
+        38.0,
+        47.0
+      ],
+      "avg_elapsed_times": [
+        21.893,
+        25.698,
+        32.3,
+        28.816,
+        27.71,
+        27.092,
+        27.664
+      ],
+      "avg_exec_creating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_times": [
+        9.231,
+        8.53,
+        2.674,
+        2.991,
+        2.663,
+        2.854,
+        3.336
+      ],
+      "avg_exec_validating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_fidelities": [
+        0.936,
+        0.819,
+        0.293,
+        0.154,
+        0.191,
+        0.165,
+        0.066
+      ],
+      "avg_hf_fidelities": [
+        0.952,
+        0.841,
+        0.337,
+        0.18,
+        0.203,
+        0.171,
+        0.07
+      ],
+      "avg_tr_depths": [
+        8.0,
+        13.0,
+        19.0,
+        26.0,
+        34.0,
+        43.0,
+        53.0
+      ],
+      "avg_tr_n2qs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "avg_tr_xis": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "avg_xis": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "groups": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "job_ids": [
+        [
+          "d1g81klqbivc73ect82g",
+          "d1g81kugljis73cnpjj0",
+          "d1g81l2q8ogc73etqo0g"
+        ],
+        [
+          "d1g81laq8ogc73etqo10",
+          "d1g81ldqbivc73ect83g",
+          "d1g81li576rs73co82dg"
+        ],
+        [
+          "d1g81m6gljis73cnpjkg",
+          "d1g81ma576rs73co82f0",
+          "d1g81maq8ogc73etqo2g"
+        ],
+        [
+          "d1g81mugljis73cnpjlg",
+          "d1g81pi576rs73co82j0",
+          "d1g81qiq8ogc73etqo6g"
+        ],
+        [
+          "d1g81qtqbivc73ect88g",
+          "d1g81r2576rs73co82l0",
+          "d1g81raq8ogc73etqo7g"
+        ],
+        [
+          "d1g81sqq8ogc73etqo9g",
+          "d1g81tmgljis73cnpjs0",
+          "d1g81uaq8ogc73etqobg"
+        ],
+        [
+          "d1g81v6gljis73cnpjtg",
+          "d1g81vaq8ogc73etqod0",
+          "d1g820a576rs73co82qg"
+        ]
+      ],
+      "std_create_times": [
+        0.0,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.719,
+        1.536,
+        0.968,
+        2.046,
+        0.575,
+        0.109,
+        0.377
+      ],
+      "std_exec_times": [
+        0.643,
+        2.75,
+        0.271,
+        0.542,
+        0.157,
+        0.16,
+        0.224
+      ],
+      "std_fidelities": [
+        0.004,
+        0.039,
+        0.074,
+        0.085,
+        0.075,
+        0.047,
+        0.013
+      ],
+      "std_hf_fidelities": [
+        0.003,
+        0.034,
+        0.069,
+        0.083,
+        0.074,
+        0.046,
+        0.013
+      ]
+    },
+    "start_time": 0
+  }
+}
