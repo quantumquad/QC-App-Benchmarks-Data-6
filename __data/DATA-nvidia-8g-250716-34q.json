@@ -1,8 +1,8 @@
 {
   "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
-    "backend_id": "nvidia",
+    "backend_id": "nvidia-8g-250716-34q",
     "circuit_metrics": null,
-    "end_time": 1752695678.430206,
+    "end_time": 0,
     "group_metrics": {
       "avg_create_times": [
         0.0,
@@ -433,6 +433,6 @@
         0.0
       ]
     },
-    "start_time": 1752695659.606487
+    "start_time": 0
   }
 }
