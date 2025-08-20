@@ -1,0 +1,16 @@
+Nomenclature for the Dynamic Circuit results on different IBM Hardwares for the work of Summer 2025.
+
+4 options for run: use_midcircuit_measurement flag turned on/off with Dynamic Decoupling on/off.
+
+###########
+Example: DATA-ibm_pittsburgh_qft1_true_wDD
+Meaning:
+DATA-Hardware_algorithm and method_midcircuit on/off_ with/without Dynamic Decoupling
+###########
+DATA-ibm_fez_qft1_true_wDD_opt3_run2
+Meaning:
+DATA- "Hardware_algorithm and method" _ "midcircuit on/off" _ "with/without Dynamic Decoupling"_ "optimization level" _ "run number"
+
+Note: in some experiments, optimization level for transpilatoin was changed to see if the fidelity changes. No differences noted.
+
+Some experiments were run multiple times and the naming system for file has the run number.
