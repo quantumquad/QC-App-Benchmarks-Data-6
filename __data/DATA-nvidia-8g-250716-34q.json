@@ -1,5 +1,5 @@
 {
-  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+  "Benchmark Results - Quantum Fourier Transform (1) - cudaq": {
     "backend_id": "nvidia-8g-250716-34q",
     "circuit_metrics": null,
     "end_time": 0,
